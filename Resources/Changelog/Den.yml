@@ -17500,3 +17500,10 @@ Entries:
   id: 1716
   time: '2026-02-24T09:31:04.0000000+00:00'
   url: https://github.com/TheDenSS14/TheDen/pull/2418
+- author: GreggTheFather
+  changes:
+    - type: Remove
+      message: Removed Anvil from the Map Voting Pool. See PR for details.
+  id: 1717
+  time: '2026-02-24T17:38:36.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/2465
