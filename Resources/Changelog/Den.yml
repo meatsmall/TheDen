@@ -17448,3 +17448,14 @@ Entries:
   id: 1710
   time: '2026-02-23T22:00:31.0000000+00:00'
   url: https://github.com/TheDenSS14/TheDen/pull/2457
+- author: Shaman
+  changes:
+    - type: Add
+      message: >-
+        Added Rimless Glasses (colorable) to loadout for a good low-profile
+        glasses option
+    - type: Tweak
+      message: Novelty Glasses now correct vision if needed
+  id: 1711
+  time: '2026-02-24T06:27:34.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/2464
