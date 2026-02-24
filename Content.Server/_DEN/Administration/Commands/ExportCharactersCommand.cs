@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 portfiend
+//
+// SPDX-License-Identifier: MIT
 
 using System.Threading.Tasks;
 using Content.Server.Administration;
