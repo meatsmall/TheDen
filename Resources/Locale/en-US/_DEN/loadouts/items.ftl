@@ -27,7 +27,7 @@ loadout-name-LoadoutClothingNeckSentimentalCollar = sentimental collar (colorabl
 loadout-name-LoadoutNeckNeckScarfWrapped = wrapped scarf (colorable)
 loadout-name-LoadoutClothingNeckHeavyShackles = heavy shackles (colorable)
 loadout-name-LoadoutNeckCollarColorable = collar (colorable)
-loadout-name-LoadoutNeckCollarSpiked = spiked collar (colorable)
+loadout-name-LoadoutNeckSpikedCollar = spiked collar (colorable)
 
 # waist
 loadout-name-LoadoutClothingWaistApron = waist apron (colorable)
