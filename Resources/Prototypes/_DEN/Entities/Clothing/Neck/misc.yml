@@ -156,6 +156,17 @@
 
 - type: entity
   parent: ClothingNeckCollarBaseFoldable
+  id: ClothingNeckSpikedCollar
+  name: spiked collar
+  description: A simple leather collar with decorative spikes.  Can be unfolded to appear thicker.
+  components:
+  - type: Sprite
+    sprite: _DEN/Clothing/Neck/Collars/collar_spiked.rsi
+  - type: Clothing
+    sprite: _DEN/Clothing/Neck/Collars/collar_spiked.rsi
+    
+- type: entity
+  parent: ClothingNeckCollarBaseFoldable
   id: ClothingNeckColorableCollar
   name: simple collar
   description: A simplistic leather collar. Can be unfolded to appear thicker.

@@ -103,6 +103,18 @@
     group: LoadoutNeck
 
 - type: loadout
+  id: LoadoutClothingNeckSpikedCollar
+  category: Neck
+  cost: 0
+  exclusive: true
+  customColorTint: true
+  items:
+  - ClothingNeckSpikedCollar
+  requirements:
+  - !type:CharacterItemGroupRequirement
+    group: LoadoutNeck
+    
+- type: loadout
   id: LoadoutClothingNeckLoopScarf
   category: Neck
   cost: 0
