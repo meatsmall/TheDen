@@ -27,6 +27,7 @@ loadout-name-LoadoutClothingNeckSentimentalCollar = sentimental collar (colorabl
 loadout-name-LoadoutNeckNeckScarfWrapped = wrapped scarf (colorable)
 loadout-name-LoadoutClothingNeckHeavyShackles = heavy shackles (colorable)
 loadout-name-LoadoutNeckCollarColorable = collar (colorable)
+loadout-name-LoadoutClothingNeckSpikedCollar = spiked collar (colorable)
 
 # waist
 loadout-name-LoadoutClothingWaistApron = waist apron (colorable)
@@ -47,6 +48,7 @@ loadout-name-LoadoutClothingUniformSimplePants = simple pants (colorable)
 # hands
 loadout-name-LoadoutClothingHandsSentimentalRing = sentimental ring (colorable)
 loadout-name-LoadoutHandsGlovesFingerlessColorable = fingerless gloves (colorable)
+loadout-name-LoadoutHandsWristCuffsSpiked = spiked wrist cuffs (colorable)
 
 # plush
 loadout-name-PlushieTeddyBearRecolorable = teddy bear (colorable)
